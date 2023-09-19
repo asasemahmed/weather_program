@@ -5,7 +5,7 @@
 # This intuitive and visually appealing application offers a seamless experience for users to access essential weather data,
 # making it an invaluable tool for planning daily activities, trips, or staying informed about the weather conditions in various regions.
 
-Features ->
+# Features ->
 
 # User-Friendly Interface: 
 The program boasts an aesthetically pleasing and intuitive user interface, allowing users of all skill levels to navigate effortlessly. It features a clean and organized layout, ensuring that weather information is presented in a user-friendly manner.
