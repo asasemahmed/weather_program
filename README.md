@@ -1,9 +1,6 @@
 # weather_program
 
-# The Weather Forecast Application is a user-friendly Python program built with the Tkinter library,
-# designed to provide users with accurate and up-to-date weather information for any location around the world. 
-# This intuitive and visually appealing application offers a seamless experience for users to access essential weather data,
-# making it an invaluable tool for planning daily activities, trips, or staying informed about the weather conditions in various regions.
+# The Weather Forecast Application is a user-friendly Python program built with the Tkinter library, designed to provide users with accurate and up-to-date weather information for any location around the world. This intuitive and visually appealing application offers a seamless experience for users to access essential weather data, making it an invaluable tool for planning daily activities, trips, or staying informed about the weather conditions in various regions.
 
 # Features ->
 
