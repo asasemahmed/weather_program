@@ -17,5 +17,5 @@ The application leverages APIs to fetch real-time weather data from reliable sou
 Users can use his location to get the weather fast.
 
 # Detailed Weather Information:
-The Weather Forecast Application delivers a comprehensive set of weather details, including temperature, humidity, wind speed and direction, atmospheric pressure, sunrise and sunset times, and more. This enables users to gain a thorough understanding of the weather conditions.
+The Weather Forecast Application delivers a comprehensive set of weather details, including temperature, humidity, wind speed and direction.
 
